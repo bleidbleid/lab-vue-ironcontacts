@@ -65,7 +65,7 @@ Al final de esta iteración, tu aplicación debería tener este aspecto:
 
 El productor quiere ver la información sobre los _premios_ que ha ganado el contacto.
 
-Actualiza la lista y añade dos columnas más "Ganó un Oscar" y "Ganó un Emmy", al final de la tabla. A continuación, en función del valor `wonOscar` y `wonEmmy` de cada contacto, renderiza condicionalmente un icono de trofeo :trophy: o ningún contenido.
+Actualiza la lista y añade dos columnas más "Ganó un Oscar" y "Ganó un Emmy", al final de la tabla. A continuación, en función del valor `wonOscar` y `wonEmmy` de cada contacto, renderiza condicionalmente un icono de trofeo :trophy:, 🌟 o ningún contenido.
 
 Una vez hecho esto, tu aplicación debería tener este aspecto:
 
