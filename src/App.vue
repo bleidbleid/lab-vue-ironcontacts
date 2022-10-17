@@ -20,7 +20,7 @@
                     <td>{{contact.popularity}}</td>
                     <td v-if="contact.wonOscar">🏆 {{contact.wonOscar}}</td>
                     <td v-else></td>
-                    <td v-if="contact.wonEmmy">🏆</td>
+                    <td v-if="contact.wonEmmy">🌟</td>
                     <td v-else></td>
 
                 </tr>
